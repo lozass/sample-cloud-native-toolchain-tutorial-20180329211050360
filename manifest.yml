@@ -4,7 +4,7 @@ applications:
   name: devops-tutorial
   command: node app.js
   path: .
-  instances: 1
+  instances: 2
   memory: 64M
   env:
     NODE_ENV: staging
